@@ -1,0 +1,7 @@
+{
+  "name": "Interactive Card: Energy Efficiency in Evolution",
+  "description": "An interactive web application that presents information about energy efficiency in evolution using a modern, responsive card design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
